@@ -13,3 +13,8 @@
 /workspaces/dotnet-app/project/obj/Debug/net6.0/dotnet-app.pdb
 /workspaces/dotnet-app/project/obj/Debug/net6.0/dotnet-app.genruntimeconfig.cache
 /workspaces/dotnet-app/project/obj/Debug/net6.0/ref/dotnet-app.dll
+/workspaces/dotnet-app/project/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/workspaces/dotnet-app/project/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/dotnet-app/project/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/dotnet-app/project/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/dotnet-app/project/obj/Debug/net6.0/dotnet-app.csproj.CopyComplete

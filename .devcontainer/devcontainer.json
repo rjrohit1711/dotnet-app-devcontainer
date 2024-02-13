@@ -4,7 +4,7 @@
 	"name": "C# (.NET)",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
   "build": {
-    "dockerfile": "../project/dockerfile"
+    "dockerfile": "dockerfile"
   }
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
